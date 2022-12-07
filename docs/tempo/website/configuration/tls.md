@@ -1,5 +1,5 @@
 ---
-title: Configure TLS Communication
+title: Configure TLS communication
 weight: 35
 ---
 
